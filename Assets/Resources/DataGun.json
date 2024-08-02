@@ -21,10 +21,31 @@
       "speed": 2
     },
     {
-      "totalBullet": 50,
-      "timeLoading": 1,
-      "fireRate": 1,
-      "damage": 2,
-      "speed": 50
+        "totalBullet": 50,
+        "timeLoading": 1,
+        "fireRate": 1,
+        "damage": 2,
+        "speed": 50
+    },
+    {
+        "totalBullet": 50,
+        "timeLoading": 1,
+        "fireRate": 1,
+        "damage": 2,
+        "speed": 50
+    },
+    {
+        "totalBullet": 10,
+        "timeLoading": 3,
+        "fireRate": 1,
+        "damage": 10,
+        "speed": 30
+    }
+    {
+        "totalBullet": 100,
+        "timeLoading": 5,
+        "fireRate": 2,
+        "damage": 2,
+        "speed": 30
     }
   ]

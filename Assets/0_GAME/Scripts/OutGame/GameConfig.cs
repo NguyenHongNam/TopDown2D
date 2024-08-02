@@ -17,12 +17,9 @@ public static class GameConfig
             };
             SaveDataGun();
         }
-        else
-        {
+        else {
             listGuns = JsonConvert.DeserializeObject<List<bool>>(PlayerPrefs.GetString(DATA_GUN));
         }
-        foreach (var x in listGuns)
-            Debug.Log(x);
     }
     public static void SaveDataGun()
     {
